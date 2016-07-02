@@ -1,1 +1,7 @@
 .gradle
+.classpath
+.project
+.settings/
+build/
+/bin/
+OTERRO*.CFG
